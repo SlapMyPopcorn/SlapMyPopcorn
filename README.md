@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SlapMyPopcorn
+- 👋 Hi, I’m @SlapMyPopcorn aka George
 - 👀 I’m interested in: Video games, 3D Modeling props, environment, and hard surface.
 - 🌱 I’m currently learning: Blender, Plasticty, and whatever grabs my attention, but overall im always learning to improve
 - 💞️ I’m looking to collaborate on: any 3D work that is needed, which includes modeling in certain programs (currently using blender, substance painter, zbrush, unreal) but I have experience with maya, marmoset, 3Dcoat, and always willing to learn new programs.
